@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\hospital",
+    "\\hospital\\hms",
+    "\\hospital\\hms\\master",
+    "\\hospital\\hms\\master\\sass",
+    "\\hospital\\hms\\master\\sass\\modules",
+    "\\hospital\\hms\\master\\sass\\partials",
+    "\\hospital\\hms\\master\\sass\\partials\\layout-elements",
+    "\\hospital\\hms\\master\\sass\\themes",
+    "\\hospital\\hms\\master\\sass\\vendor"
+  ],
+  "SelectedNode": "\\hospital\\hms\\assets\\js\\index.js",
+  "PreviewInSolutionExplorer": false
+}
